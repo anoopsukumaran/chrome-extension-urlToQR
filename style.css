@@ -1,0 +1,17 @@
+#container { 
+   padding-top:0px; 
+   padding-left:10px;
+   padding-right:10px;
+}
+
+#title {
+   background-color:black;
+   padding:2px;
+   color:white;
+   width:145px;
+   text-align:center;
+}
+
+#status {
+ margin-top:10px;
+}
